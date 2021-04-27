@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">УМНЫЙ ДОМ</string>
+    <string name="emailpassword_title_text">Почта и пароль</string>
+    <string name="signed_out">Вышел</string>
+    <string name="signed_in">Вошел</string>
+    <string name="firebase_status_fmt">UID пользователя: %s</string>
+    <string name="hint_email">Эл.почта</string>
+    <string name="hint_password">Пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="create_account">Создать Аккаунт</string>
+    <string name="sign_out">Выход</string>
+    <string name="verify_email">Проверить</string>
+    <string name="reload">Перезапуск</string>
+    <string name="auth_failed">Сбой аутентификации</string>
+    <string name="verification_email_send">"Письмо с подтверждением отправлено на адрес "</string>
+    <string name="failed_to_send_verification">Не удалось отправить письмо с подтверждением.</string>
+    <string name="reload_successful">Перезагрузка прошла успешно!</string>
+    <string name="failed_to_reload_user">Ошибка перезагрузки пользователя.</string>
+    <string name="requerid">Необходимо.</string>
+    <string name="emailpassword_status_fmt">Почта пользователя: %1$s (проверено: %2$b)</string>
+    <string name="input">ВХОД</string>
+    <string name="failed_to_present_user">Вы не авторизованны...</string>
+    <string name="welcome_user">ДОБРО ПОЖАЛОВАТЬ!!!</string>
+    <string name="data">ДАННЫЕ</string>
+    <string name="help">ПОМОЩЬ</string>
+    <string name="control">КОНТРОЛЬ</string>
+    <string name="tvConnectStatusLbl">Статус соединения</string>
+    <string name="level_control_sw">Контроль уровня</string>
+    <string name="no_inet_connection_lbl">Нет интеренет соединения!!!</string>
+    <string name="warning">Предупреждение</string>
+</resources>
